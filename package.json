@@ -1,0 +1,23 @@
+{
+  "name": "vanilla-react-nodejs",
+  "version": "1.0.0",
+  "description": "Vanilla React served by nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnindrazaka/vanilla-react-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnindrazaka/vanilla-react-nodejs/issues"
+  },
+  "homepage": "https://github.com/mnindrazaka/vanilla-react-nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
